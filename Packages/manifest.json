@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "com.unity.collab-proxy": "1.2.16",
-    "com.unity.shared": "https://github.com/UnityAlexHarkness/Shared.git?path=/Packages/Shared/#v0.0.3",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.1",
     "com.unity.test-framework": "1.1.14",

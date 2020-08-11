@@ -14,12 +14,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-    "com.unity.game2": {
-      "version": "file:Game2",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.ide.rider": {
       "version": "1.1.4",
       "depth": 0,
@@ -35,13 +29,6 @@
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
-    },
-    "com.unity.shared": {
-      "version": "https://github.com/UnityAlexHarkness/Shared.git?path=/Packages/Shared/#v0.0.3",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "732dd78e9fe7ce61c6a0ad92ef51266de093a75d"
     },
     "com.unity.test-framework": {
       "version": "1.1.14",
